@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gbemi.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning advanced Python, JavaScript, and Kotlin.
+- 🌱 I’m currently learning advanced Python, C, JavaScript, and Kotlin.
 - 📫 How to reach me:
     -  LinkedIn: www.linkedin.com/in/gbemi-adesanya
 - 😄 Pronouns: She/Her
